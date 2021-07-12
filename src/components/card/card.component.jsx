@@ -1,5 +1,5 @@
 const Card = (props) => {
-  console.log("props here", props.data);
+  // console.log("props here", props.data);
 
   return (
     <div className="card" style={{ width: "13rem" }}>
